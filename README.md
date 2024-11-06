@@ -1,1 +1,0 @@
-# Ground-Effect-modeling-using-VPM-and-Source-Panels
