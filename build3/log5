@@ -1,0 +1,1722 @@
+Calculating AIC matrix
+3164
+3.72904s
+Calculating AIC matrix inverse
+15.691s
+the panel center is0.01
+the panel center is0.03
+the panel center is0.05
+the panel center is0.07
+the panel center is0.09
+the panel center is0.11
+the panel center is0.13
+the panel center is0.15
+the panel center is0.17
+the panel center is0.19
+the panel center is0.21
+the panel center is0.23
+the panel center is0.25
+the panel center is0.27
+the panel center is0.29
+the panel center is0.31
+the panel center is0.33
+the panel center is0.35
+the panel center is0.37
+the panel center is0.39
+the panel center is0.41
+the panel center is0.43
+the panel center is0.45
+the panel center is0.47
+the panel center is0.49
+the panel center is0.51
+the panel center is0.53
+the panel center is0.55
+the panel center is0.57
+the panel center is0.59
+the panel center is0.61
+the panel center is0.63
+the panel center is0.65
+the panel center is0.67
+the panel center is0.69
+the panel center is0.71
+the panel center is0.73
+the panel center is0.75
+the panel center is0.77
+the panel center is0.79
+the panel center is0.81
+the panel center is0.83
+the panel center is0.85
+the panel center is0.87
+the panel center is0.89
+the panel center is0.91
+the panel center is0.93
+the panel center is0.95
+the panel center is0.97
+the panel center is0.99
+the panel edge is0
+the panel edge is0.02
+the panel edge is0.04
+the panel edge is0.06
+the panel edge is0.08
+the panel edge is0.1
+the panel edge is0.12
+the panel edge is0.14
+the panel edge is0.16
+the panel edge is0.18
+the panel edge is0.2
+the panel edge is0.22
+the panel edge is0.24
+the panel edge is0.26
+the panel edge is0.28
+the panel edge is0.3
+the panel edge is0.32
+the panel edge is0.34
+the panel edge is0.36
+the panel edge is0.38
+the panel edge is0.4
+the panel edge is0.42
+the panel edge is0.44
+the panel edge is0.46
+the panel edge is0.48
+the panel edge is0.5
+the panel edge is0.52
+the panel edge is0.54
+the panel edge is0.56
+the panel edge is0.58
+the panel edge is0.6
+the panel edge is0.62
+the panel edge is0.64
+the panel edge is0.66
+the panel edge is0.68
+the panel edge is0.7
+the panel edge is0.72
+the panel edge is0.74
+the panel edge is0.76
+the panel edge is0.78
+the panel edge is0.8
+the panel edge is0.82
+the panel edge is0.84
+the panel edge is0.86
+the panel edge is0.88
+the panel edge is0.9
+the panel edge is0.92
+the panel edge is0.94
+the panel edge is0.96
+the panel edge is0.98
+the panel edge is1
+0.02
+chord length 0is 0.0994987
+chord length 1is 0.170587
+chord length 2is 0.217945
+chord length 3is 0.255147
+chord length 4is 0.286182
+chord length 5is 0.31289
+chord length 6is 0.336303
+chord length 7is 0.357071
+chord length 8is 0.375633
+chord length 9is 0.392301
+chord length 10is 0.407308
+chord length 11is 0.420833
+chord length 12is 0.433013
+chord length 13is 0.443959
+chord length 14is 0.453762
+chord length 15is 0.462493
+chord length 16is 0.470213
+chord length 17is 0.47697
+chord length 18is 0.482804
+chord length 19is 0.48775
+chord length 20is 0.491833
+chord length 21is 0.495076
+chord length 22is 0.497494
+chord length 23is 0.499099
+chord length 24is 0.4999
+chord length 25is 0.4999
+chord length 26is 0.499099
+chord length 27is 0.497494
+chord length 28is 0.495076
+chord length 29is 0.491833
+chord length 30is 0.48775
+chord length 31is 0.482804
+chord length 32is 0.47697
+chord length 33is 0.470213
+chord length 34is 0.462493
+chord length 35is 0.453762
+chord length 36is 0.443959
+chord length 37is 0.433013
+chord length 38is 0.420833
+chord length 39is 0.407308
+chord length 40is 0.392301
+chord length 41is 0.375633
+chord length 42is 0.357071
+chord length 43is 0.336303
+chord length 44is 0.31289
+chord length 45is 0.286182
+chord length 46is 0.255147
+chord length 47is 0.217945
+chord length 48is 0.170587
+chord length 49is 0.0994987
+--- FMM Profiling    ------------
+first size of bodies array is 0
+cycle 1
+writing file1
+the current aoa at centre panel is -17.4406
+the current lift at centre panel is -0.0514725
+the total lift in cycle 1and iteration 1is-2.02349
+the total cl in cycle 1and iteration 1is-2.10318
+VEL1-0 -0 -0
+the added velocity is -0.628319
+the current set height is 0
+the size of the body array is 0
+End of file1
+writing file2
+the current aoa at centre panel is -9.8877
+the current lift at centre panel is -0.0314182
+the total lift in cycle 1and iteration 2is-1.35932
+the total cl in cycle 1and iteration 2is-1.41284
+VEL1-4.50627e-05      0.14155     0.454558
+the added velocity is -0.623737
+the current set height is 0.00602683
+the size of the body array is 101
+End of file2
+writing file3
+the current aoa at centre panel is -6.40501
+the current lift at centre panel is -0.0203327
+the total lift in cycle 1and iteration 3is-0.948884
+the total cl in cycle 1and iteration 3is-0.98625
+VEL1-0.000103071     0.152076     0.453194
+the added velocity is -0.610061
+the current set height is 0.0119658
+the size of the body array is 202
+End of file3
+writing file4
+the current aoa at centre panel is -4.85318
+the current lift at centre panel is -0.0153556
+the total lift in cycle 1and iteration 4is-0.734566
+the total cl in cycle 1and iteration 4is-0.763493
+VEL1-0.000156133     0.150013     0.414931
+the added velocity is -0.587488
+the current set height is 0.0177302
+the size of the body array is 303
+End of file4
+writing file5
+the current aoa at centre panel is -4.42131
+the current lift at centre panel is -0.0138612
+the total lift in cycle 1and iteration 5is-0.642855
+the total cl in cycle 1and iteration 5is-0.66817
+VEL1-0.000206621     0.139843     0.359065
+the added velocity is -0.556348
+the current set height is 0.0232362
+the size of the body array is 404
+End of file5
+writing file6
+the current aoa at centre panel is -4.45978
+the current lift at centre panel is -0.0138103
+the total lift in cycle 1and iteration 6is-0.610714
+the total cl in cycle 1and iteration 6is-0.634763
+VEL1-0.000257327     0.126466     0.302986
+the added velocity is -0.517096
+the current set height is 0.0284032
+the size of the body array is 505
+End of file6
+writing file7
+the current aoa at centre panel is -4.51619
+the current lift at centre panel is -0.0137967
+the total lift in cycle 1and iteration 7is-0.590132
+the total cl in cycle 1and iteration 7is-0.613371
+VEL1-0.000302573     0.112606      0.25477
+the added velocity is -0.470303
+the current set height is 0.0331561
+the size of the body array is 606
+End of file7
+writing file8
+the current aoa at centre panel is -4.34983
+the current lift at centre panel is -0.0131
+the total lift in cycle 1and iteration 8is-0.552704
+the total cl in cycle 1and iteration 8is-0.574469
+VEL1-0.000359784    0.0993568      0.21483
+the added velocity is -0.416652
+the current set height is 0.0374255
+the size of the body array is 707
+End of file8
+writing file9
+the current aoa at centre panel is -3.89912
+the current lift at centre panel is -0.0115716
+the total lift in cycle 1and iteration 9is-0.488502
+the total cl in cycle 1and iteration 9is-0.507738
+VEL1-0.000443601     0.087031      0.17933
+the added velocity is -0.356926
+the current set height is 0.0411492
+the size of the body array is 808
+End of file9
+writing file10
+the current aoa at centre panel is -3.21823
+the current lift at centre panel is -0.00941538
+the total lift in cycle 1and iteration 10is-0.400687
+the total cl in cycle 1and iteration 10is-0.416466
+VEL1-0.00042746   0.0757779    0.143699
+the added velocity is -0.291994
+the current set height is 0.0442728
+the size of the body array is 909
+End of file10
+writing file11
+the current aoa at centre panel is -2.40426
+the current lift at centre panel is -0.006944
+the total lift in cycle 1and iteration 11is-0.298289
+the total cl in cycle 1and iteration 11is-0.310035
+VEL1-0.000403332    0.0658953     0.105005
+the added velocity is -0.222805
+the current set height is 0.0467508
+the size of the body array is 1010
+End of file11
+writing file12
+the current aoa at centre panel is -1.54195
+the current lift at centre panel is -0.00440679
+the total lift in cycle 1and iteration 12is-0.189992
+the total cl in cycle 1and iteration 12is-0.197473
+VEL1-0.000378339    0.0577404    0.0625806
+the added velocity is -0.150366
+the current set height is 0.0485471
+the size of the body array is 1111
+End of file12
+writing file13
+the current aoa at centre panel is -0.682597
+the current lift at centre panel is -0.00193599
+the total lift in cycle 1and iteration 13is-0.0816394
+the total cl in cycle 1and iteration 13is-0.0848543
+VEL1-0.000348054      0.05098    0.0174189
+the added velocity is -0.0757354
+the current set height is 0.0496354
+the size of the body array is 1212
+End of file13
+writing file14
+the current aoa at centre panel is 0.156539
+the current lift at centre panel is 0.000441709
+the total lift in cycle 1and iteration 14is0.0242914
+the total cl in cycle 1and iteration 14is0.025248
+VEL1-0.000327195    0.0467652   -0.0288464
+the added velocity is -3.84734e-17
+the current set height is 0.05
+the size of the body array is 1313
+End of file14
+writing file15
+the current aoa at centre panel is 0.973568
+the current lift at centre panel is 0.00274257
+the total lift in cycle 1and iteration 15is0.127245
+the total cl in cycle 1and iteration 15is0.132256
+VEL1-0.000313464    0.0449605   -0.0747786
+the added velocity is 0.0757354
+the current set height is 0.0496354
+the size of the body array is 1414
+End of file15
+writing file16
+the current aoa at centre panel is 1.7675
+the current lift at centre panel is 0.00498639
+the total lift in cycle 1and iteration 16is0.227544
+the total cl in cycle 1and iteration 16is0.236505
+VEL1-0.000308262    0.0454119    -0.118757
+the added velocity is 0.150366
+the current set height is 0.0485471
+the size of the body array is 1515
+End of file16
+writing file17
+the current aoa at centre panel is 2.54961
+the current lift at centre panel is 0.0072236
+the total lift in cycle 1and iteration 17is0.325836
+the total cl in cycle 1and iteration 17is0.338667
+VEL1-0.0003077  0.0477674  -0.160094
+the added velocity is 0.222805
+the current set height is 0.0467508
+the size of the body array is 1616
+End of file17
+writing file18
+the current aoa at centre panel is 3.30357
+the current lift at centre panel is 0.0094212
+the total lift in cycle 1and iteration 18is0.421537
+the total cl in cycle 1and iteration 18is0.438137
+VEL1-0.000318873    0.0517054     -0.19848
+the added velocity is 0.291994
+the current set height is 0.0442728
+the size of the body array is 1717
+End of file18
+writing file19
+the current aoa at centre panel is 4.01891
+the current lift at centre panel is 0.0115565
+the total lift in cycle 1and iteration 19is0.513731
+the total cl in cycle 1and iteration 19is0.533961
+VEL1-0.000326646    0.0566694    -0.233737
+the added velocity is 0.356926
+the current set height is 0.0411492
+the size of the body array is 1818
+End of file19
+writing file20
+the current aoa at centre panel is 4.67482
+the current lift at centre panel is 0.0135668
+the total lift in cycle 1and iteration 20is0.600545
+the total cl in cycle 1and iteration 20is0.624194
+VEL1-0.000323804     0.062408    -0.265636
+the added velocity is 0.416652
+the current set height is 0.0374255
+the size of the body array is 1919
+End of file20
+writing file21
+the current aoa at centre panel is 5.25993
+the current lift at centre panel is 0.0154118
+the total lift in cycle 1and iteration 21is0.68014
+the total cl in cycle 1and iteration 21is0.706923
+VEL1-0.000325723    0.0683253    -0.293567
+the added velocity is 0.470303
+the current set height is 0.0331561
+the size of the body array is 2020
+End of file21
+writing file22
+the current aoa at centre panel is 5.77003
+the current lift at centre panel is 0.0170621
+the total lift in cycle 1and iteration 22is0.751204
+the total cl in cycle 1and iteration 22is0.780786
+VEL1-0.000335666    0.0739465    -0.317047
+the added velocity is 0.517096
+the current set height is 0.0284032
+the size of the body array is 2121
+End of file22
+writing file23
+the current aoa at centre panel is 6.19953
+the current lift at centre panel is 0.0184817
+the total lift in cycle 1and iteration 23is0.812193
+the total cl in cycle 1and iteration 23is0.844177
+VEL1-0.000347812    0.0790047    -0.335745
+the added velocity is 0.556348
+the current set height is 0.0232362
+the size of the body array is 2222
+End of file23
+writing file24
+the current aoa at centre panel is 6.54462
+the current lift at centre panel is 0.0196415
+the total lift in cycle 1and iteration 24is0.861655
+the total cl in cycle 1and iteration 24is0.895586
+VEL1-0.00036385    0.083129   -0.349328
+the added velocity is 0.587488
+the current set height is 0.0177302
+the size of the body array is 2323
+End of file24
+writing file25
+the current aoa at centre panel is 6.80342
+the current lift at centre panel is 0.0205172
+the total lift in cycle 1and iteration 25is0.898469
+the total cl in cycle 1and iteration 25is0.93385
+VEL1-0.000369325    0.0856855    -0.357757
+the added velocity is 0.610061
+the current set height is 0.0119658
+the size of the body array is 2424
+End of file25
+writing file26
+the current aoa at centre panel is 6.9698
+the current lift at centre panel is 0.0210685
+the total lift in cycle 1and iteration 26is0.921407
+the total cl in cycle 1and iteration 26is0.957691
+VEL1-0.000339949    0.0866489    -0.360716
+the added velocity is 0.623737
+the current set height is 0.00602683
+the size of the body array is 2525
+End of file26
+writing file27
+the current aoa at centre panel is 7.04973
+the current lift at centre panel is 0.0213075
+the total lift in cycle 1and iteration 27is0.930304
+the total cl in cycle 1and iteration 27is0.966939
+VEL1-0.000329127    0.0864603    -0.358186
+the added velocity is 0.628319
+the current set height is 6.12323e-18
+the size of the body array is 2626
+End of file27
+writing file28
+the current aoa at centre panel is 7.0348
+the current lift at centre panel is 0.0212175
+the total lift in cycle 1and iteration 28is0.924809
+the total cl in cycle 1and iteration 28is0.961227
+VEL1-0.000316447     0.084946    -0.350411
+the added velocity is 0.623737
+the current set height is -0.00602683
+the size of the body array is 2727
+End of file28
+writing file29
+the current aoa at centre panel is 6.92423
+the current lift at centre panel is 0.0207965
+the total lift in cycle 1and iteration 29is0.90499
+the total cl in cycle 1and iteration 29is0.940628
+VEL1-0.000300876    0.0820943    -0.337405
+the added velocity is 0.610061
+the current set height is -0.0119658
+the size of the body array is 2828
+End of file29
+writing file30
+the current aoa at centre panel is 6.72042
+the current lift at centre panel is 0.0200608
+the total lift in cycle 1and iteration 30is0.871353
+the total cl in cycle 1and iteration 30is0.905666
+VEL1-0.000286628    0.0780562    -0.319326
+the added velocity is 0.587488
+the current set height is -0.0177302
+the size of the body array is 2929
+End of file30
+writing file31
+the current aoa at centre panel is 6.42445
+the current lift at centre panel is 0.0190291
+the total lift in cycle 1and iteration 31is0.82473
+the total cl in cycle 1and iteration 31is0.857207
+VEL1-0.000270063    0.0729994    -0.296525
+the added velocity is 0.556348
+the current set height is -0.0232362
+the size of the body array is 3030
+End of file31
+writing file32
+the current aoa at centre panel is 6.03688
+the current lift at centre panel is 0.0177205
+the total lift in cycle 1and iteration 32is0.766078
+the total cl in cycle 1and iteration 32is0.796246
+VEL1-0.000255044     0.067264    -0.269324
+the added velocity is 0.517096
+the current set height is -0.0284032
+the size of the body array is 3131
+End of file32
+writing file33
+the current aoa at centre panel is 5.5622
+the current lift at centre panel is 0.0161688
+the total lift in cycle 1and iteration 33is0.696784
+the total cl in cycle 1and iteration 33is0.724223
+VEL1-0.000241157    0.0611565    -0.238115
+the added velocity is 0.470303
+the current set height is -0.0331561
+the size of the body array is 3232
+End of file33
+writing file34
+the current aoa at centre panel is 5.00448
+the current lift at centre panel is 0.0144036
+the total lift in cycle 1and iteration 34is0.618211
+the total cl in cycle 1and iteration 34is0.642556
+VEL1-0.000232097    0.0550763    -0.203349
+the added velocity is 0.416652
+the current set height is -0.0374255
+the size of the body array is 3333
+End of file34
+writing file35
+the current aoa at centre panel is 4.37114
+the current lift at centre panel is 0.0124614
+the total lift in cycle 1and iteration 35is0.53194
+the total cl in cycle 1and iteration 35is0.552887
+VEL1-0.000222097    0.0492908    -0.165535
+the added velocity is 0.356926
+the current set height is -0.0411492
+the size of the body array is 3434
+End of file35
+writing file36
+the current aoa at centre panel is 3.6701
+the current lift at centre panel is 0.0103728
+the total lift in cycle 1and iteration 36is0.439388
+the total cl in cycle 1and iteration 36is0.45669
+VEL1-0.000215377    0.0442044    -0.125219
+the added velocity is 0.291994
+the current set height is -0.0442728
+the size of the body array is 3535
+End of file36
+writing file37
+the current aoa at centre panel is 2.91202
+the current lift at centre panel is 0.00817144
+the total lift in cycle 1and iteration 37is0.342028
+the total cl in cycle 1and iteration 37is0.355497
+VEL1-0.000210485    0.0400979    -0.082973
+the added velocity is 0.222805
+the current set height is -0.0467508
+the size of the body array is 3636
+End of file37
+writing file38
+the current aoa at centre panel is 2.10873
+the current lift at centre panel is 0.00588606
+the total lift in cycle 1and iteration 38is0.241099
+the total cl in cycle 1and iteration 38is0.250593
+VEL1-0.000210253    0.0372605   -0.0394561
+the added velocity is 0.150366
+the current set height is -0.0485471
+the size of the body array is 3737
+End of file38
+writing file39
+the current aoa at centre panel is 1.27239
+the current lift at centre panel is 0.00354079
+the total lift in cycle 1and iteration 39is0.137813
+the total cl in cycle 1and iteration 39is0.14324
+VEL1-0.000214032    0.0358854   0.00475088
+the added velocity is 0.0757354
+the current set height is -0.0496354
+the size of the body array is 3838
+End of file39
+writing file40
+the current aoa at centre panel is 0.419068
+the current lift at centre panel is 0.00116548
+the total lift in cycle 1and iteration 40is0.0333481
+the total cl in cycle 1and iteration 40is0.0346613
+VEL1-0.00022413   0.0360813   0.0490131
+the added velocity is 1.1542e-16
+the current set height is -0.05
+the size of the body array is 3939
+End of file40
+writing file41
+the current aoa at centre panel is -0.437232
+the current lift at centre panel is -0.00121831
+the total lift in cycle 1and iteration 41is-0.071273
+the total cl in cycle 1and iteration 41is-0.0740796
+VEL1-0.000236731    0.0378093    0.0925747
+the added velocity is -0.0757354
+the current set height is -0.0496354
+the size of the body array is 4040
+End of file41
+writing file42
+the current aoa at centre panel is -1.28417
+the current lift at centre panel is -0.00359343
+the total lift in cycle 1and iteration 42is-0.175066
+the total cl in cycle 1and iteration 42is-0.18196
+VEL1-0.000252802    0.0410283     0.134871
+the added velocity is -0.150366
+the current set height is -0.0485471
+the size of the body array is 4141
+End of file42
+writing file43
+the current aoa at centre panel is -2.10479
+the current lift at centre panel is -0.00592729
+the total lift in cycle 1and iteration 43is-0.276851
+the total cl in cycle 1and iteration 43is-0.287753
+VEL1-0.000270996    0.0455609     0.175272
+the added velocity is -0.222805
+the current set height is -0.0467508
+the size of the body array is 4242
+End of file43
+writing file44
+the current aoa at centre panel is -2.88816
+the current lift at centre panel is -0.00819924
+the total lift in cycle 1and iteration 44is-0.375611
+the total cl in cycle 1and iteration 44is-0.390402
+VEL1-0.00029163   0.0512062     0.21318
+the added velocity is -0.291994
+the current set height is -0.0442728
+the size of the body array is 4343
+End of file44
+writing file45
+the current aoa at centre panel is -3.62103
+the current lift at centre panel is -0.0103762
+the total lift in cycle 1and iteration 45is-0.469969
+the total cl in cycle 1and iteration 45is-0.488476
+VEL1-0.000318821    0.0575484     0.248062
+the added velocity is -0.356926
+the current set height is -0.0411492
+the size of the body array is 4444
+End of file45
+writing file46
+the current aoa at centre panel is -4.29394
+the current lift at centre panel is -0.0124273
+the total lift in cycle 1and iteration 46is-0.558623
+the total cl in cycle 1and iteration 46is-0.580621
+VEL1-0.000340361    0.0643271     0.279313
+the added velocity is -0.416652
+the current set height is -0.0374255
+the size of the body array is 4545
+End of file46
+writing file47
+the current aoa at centre panel is -4.90001
+the current lift at centre panel is -0.0143245
+the total lift in cycle 1and iteration 47is-0.640265
+the total cl in cycle 1and iteration 47is-0.665479
+VEL1-0.000356942     0.071061     0.306544
+the added velocity is -0.470303
+the current set height is -0.0331561
+the size of the body array is 4646
+End of file47
+writing file48
+the current aoa at centre panel is -5.42984
+the current lift at centre panel is -0.0160245
+the total lift in cycle 1and iteration 48is-0.713178
+the total cl in cycle 1and iteration 48is-0.741263
+VEL1-0.000372555    0.0774772     0.329336
+the added velocity is -0.517096
+the current set height is -0.0284032
+the size of the body array is 4747
+End of file48
+writing file49
+the current aoa at centre panel is -5.87982
+the current lift at centre panel is -0.0175001
+the total lift in cycle 1and iteration 49is-0.776061
+the total cl in cycle 1and iteration 49is-0.806622
+VEL1-0.000385933    0.0831531     0.347301
+the added velocity is -0.556348
+the current set height is -0.0232362
+the size of the body array is 4848
+End of file49
+writing file50
+the current aoa at centre panel is -6.24512
+the current lift at centre panel is -0.0187169
+the total lift in cycle 1and iteration 50is-0.827475
+the total cl in cycle 1and iteration 50is-0.860061
+VEL1-0.00039415   0.0876038    0.360229
+the added velocity is -0.587488
+the current set height is -0.0177302
+the size of the body array is 4949
+End of file50
+writing file51
+the current aoa at centre panel is -6.52223
+the current lift at centre panel is -0.019643
+the total lift in cycle 1and iteration 51is-0.866166
+the total cl in cycle 1and iteration 51is-0.900275
+VEL1-0.000397921     0.090779      0.36792
+the added velocity is -0.610061
+the current set height is -0.0119658
+the size of the body array is 5050
+End of file51
+writing file52
+the current aoa at centre panel is -6.70845
+the current lift at centre panel is -0.0202594
+the total lift in cycle 1and iteration 52is-0.891279
+the total cl in cycle 1and iteration 52is-0.926376
+VEL1-0.000395154    0.0924592     0.370247
+the added velocity is -0.623737
+the current set height is -0.00602683
+the size of the body array is 5151
+End of file52
+cycle 2
+writing file1
+the current aoa at centre panel is -6.80206
+the current lift at centre panel is -0.0205509
+the total lift in cycle 2and iteration 1is-0.902202
+the total cl in cycle 2and iteration 1is-0.93773
+VEL1-0.00038869   0.0926481    0.367196
+the added velocity is -0.628319
+the current set height is -1.22465e-17
+the size of the body array is 5252
+End of file1
+writing file2
+the current aoa at centre panel is -6.80115
+the current lift at centre panel is -0.0205108
+the total lift in cycle 2and iteration 2is-0.898657
+the total cl in cycle 2and iteration 2is-0.934045
+VEL1-0.000379318    0.0912956     0.358793
+the added velocity is -0.623737
+the current set height is 0.00602683
+the size of the body array is 5353
+End of file2
+writing file3
+the current aoa at centre panel is -6.70605
+the current lift at centre panel is -0.0201431
+the total lift in cycle 2and iteration 3is-0.88072
+the total cl in cycle 2and iteration 3is-0.915402
+VEL1-0.000366007    0.0884805     0.345182
+the added velocity is -0.610061
+the current set height is 0.0119658
+the size of the body array is 5454
+End of file3
+writing file4
+the current aoa at centre panel is -6.51601
+the current lift at centre panel is -0.0194557
+the total lift in cycle 2and iteration 4is-0.848838
+the total cl in cycle 2and iteration 4is-0.882264
+VEL1-0.000348301    0.0843834     0.326575
+the added velocity is -0.587488
+the current set height is 0.0177302
+the size of the body array is 5555
+End of file4
+writing file5
+the current aoa at centre panel is -6.23239
+the current lift at centre panel is -0.0184678
+the total lift in cycle 2and iteration 5is-0.803835
+the total cl in cycle 2and iteration 5is-0.83549
+VEL1-0.000330283    0.0792368     0.303266
+the added velocity is -0.556348
+the current set height is 0.0232362
+the size of the body array is 5656
+End of file5
+writing file6
+the current aoa at centre panel is -5.85638
+the current lift at centre panel is -0.0172012
+the total lift in cycle 2and iteration 6is-0.746724
+the total cl in cycle 2and iteration 6is-0.776129
+VEL1-0.000313456    0.0733673     0.275601
+the added velocity is -0.517096
+the current set height is 0.0284032
+the size of the body array is 5757
+End of file6
+writing file7
+the current aoa at centre panel is -5.39176
+the current lift at centre panel is -0.0156865
+the total lift in cycle 2and iteration 7is-0.678799
+the total cl in cycle 2and iteration 7is-0.705529
+VEL1-0.000297356    0.0671079      0.24398
+the added velocity is -0.470303
+the current set height is 0.0331561
+the size of the body array is 5858
+End of file7
+writing file8
+the current aoa at centre panel is -4.84312
+the current lift at centre panel is -0.0139548
+the total lift in cycle 2and iteration 8is-0.601494
+the total cl in cycle 2and iteration 8is-0.62518
+VEL1-0.000284739     0.060827      0.20885
+the added velocity is -0.416652
+the current set height is 0.0374255
+the size of the body array is 5959
+End of file8
+writing file9
+the current aoa at centre panel is -4.21772
+the current lift at centre panel is -0.0120411
+the total lift in cycle 2and iteration 9is-0.516295
+the total cl in cycle 2and iteration 9is-0.536626
+VEL1-0.000274655    0.0548701     0.170703
+the added velocity is -0.356926
+the current set height is 0.0411492
+the size of the body array is 6060
+End of file9
+writing file10
+the current aoa at centre panel is -3.52419
+the current lift at centre panel is -0.00997841
+the total lift in cycle 2and iteration 10is-0.424694
+the total cl in cycle 2and iteration 10is-0.441418
+VEL1-0.000268829    0.0496362      0.13008
+the added velocity is -0.291994
+the current set height is 0.0442728
+the size of the body array is 6161
+End of file10
+writing file11
+the current aoa at centre panel is -2.77316
+the current lift at centre panel is -0.00779936
+the total lift in cycle 2and iteration 11is-0.3281
+the total cl in cycle 2and iteration 11is-0.34102
+VEL1-0.000263344     0.045317    0.0874894
+the added velocity is -0.222805
+the current set height is 0.0467508
+the size of the body array is 6262
+End of file11
+writing file12
+the current aoa at centre panel is -1.9789
+the current lift at centre panel is -0.00553854
+the total lift in cycle 2and iteration 12is-0.228028
+the total cl in cycle 2and iteration 12is-0.237008
+VEL1-0.000263142    0.0423035    0.0436535
+the added velocity is -0.150366
+the current set height is 0.0485471
+the size of the body array is 6363
+End of file12
+writing file13
+the current aoa at centre panel is -1.15067
+the current lift at centre panel is -0.00321227
+the total lift in cycle 2and iteration 13is-0.125427
+the total cl in cycle 2and iteration 13is-0.130366
+VEL1-0.000265779    0.0407058 -0.000781166
+the added velocity is -0.0757354
+the current set height is 0.0496354
+the size of the body array is 6464
+End of file13
+writing file14
+the current aoa at centre panel is -0.304826
+the current lift at centre panel is -0.000850853
+the total lift in cycle 2and iteration 14is-0.0215016
+the total cl in cycle 2and iteration 14is-0.0223483
+VEL1-0.000273555    0.0406716   -0.0452118
+the added velocity is -3.84734e-17
+the current set height is 0.05
+the size of the body array is 6565
+End of file14
+writing file15
+the current aoa at centre panel is 0.544843
+the current lift at centre panel is 0.0015244
+the total lift in cycle 2and iteration 15is0.0827673
+the total cl in cycle 2and iteration 15is0.0860266
+VEL1-0.000285814    0.0422412   -0.0889479
+the added velocity is 0.0757354
+the current set height is 0.0496354
+the size of the body array is 6666
+End of file15
+writing file16
+the current aoa at centre panel is 1.38402
+the current lift at centre panel is 0.00389078
+the total lift in cycle 2and iteration 16is0.186337
+the total cl in cycle 2and iteration 16is0.193675
+VEL1-0.000301963    0.0452853    -0.131395
+the added velocity is 0.150366
+the current set height is 0.0485471
+the size of the body array is 6767
+End of file16
+writing file17
+the current aoa at centre panel is 2.1977
+the current lift at centre panel is 0.00622061
+the total lift in cycle 2and iteration 17is0.288017
+the total cl in cycle 2and iteration 17is0.299359
+VEL1-0.000321314    0.0496239    -0.171953
+the added velocity is 0.222805
+the current set height is 0.0467508
+the size of the body array is 6868
+End of file17
+writing file18
+the current aoa at centre panel is 2.9729
+the current lift at centre panel is 0.00848671
+the total lift in cycle 2and iteration 18is0.386626
+the total cl in cycle 2and iteration 18is0.401851
+VEL1-0.000340838    0.0550218    -0.210017
+the added velocity is 0.291994
+the current set height is 0.0442728
+the size of the body array is 6969
+End of file18
+writing file19
+the current aoa at centre panel is 3.69813
+the current lift at centre panel is 0.0106597
+the total lift in cycle 2and iteration 19is0.480905
+the total cl in cycle 2and iteration 19is0.499843
+VEL1-0.000359647    0.0611538    -0.245001
+the added velocity is 0.356926
+the current set height is 0.0411492
+the size of the body array is 7070
+End of file19
+writing file20
+the current aoa at centre panel is 4.36411
+the current lift at centre panel is 0.0127093
+the total lift in cycle 2and iteration 20is0.569501
+the total cl in cycle 2and iteration 20is0.591927
+VEL1-0.000376472    0.0676741    -0.276388
+the added velocity is 0.416652
+the current set height is 0.0374255
+the size of the body array is 7171
+End of file20
+writing file21
+the current aoa at centre panel is 4.96238
+the current lift at centre panel is 0.014601
+the total lift in cycle 2and iteration 21is0.650981
+the total cl in cycle 2and iteration 21is0.676616
+VEL1-0.000391469    0.0742082    -0.303724
+the added velocity is 0.470303
+the current set height is 0.0331561
+the size of the body array is 7272
+End of file21
+writing file22
+the current aoa at centre panel is 5.48606
+the current lift at centre panel is 0.0162995
+the total lift in cycle 2and iteration 22is0.723842
+the total cl in cycle 2and iteration 22is0.752346
+VEL1-0.000403197    0.0803654    -0.326609
+the added velocity is 0.517096
+the current set height is 0.0284032
+the size of the body array is 7373
+End of file22
+writing file23
+the current aoa at centre panel is 5.9297
+the current lift at centre panel is 0.0177699
+the total lift in cycle 2and iteration 23is0.786583
+the total cl in cycle 2and iteration 23is0.817559
+VEL1-0.000410748    0.0858035    -0.344691
+the added velocity is 0.556348
+the current set height is 0.0232362
+the size of the body array is 7474
+End of file23
+writing file24
+the current aoa at centre panel is 6.2894
+the current lift at centre panel is 0.0189809
+the total lift in cycle 2and iteration 24is0.837882
+the total cl in cycle 2and iteration 24is0.870877
+VEL1-0.000414138    0.0902079    -0.357682
+the added velocity is 0.587488
+the current set height is 0.0177302
+the size of the body array is 7575
+End of file24
+writing file25
+the current aoa at centre panel is 6.56223
+the current lift at centre panel is 0.0199055
+the total lift in cycle 2and iteration 25is0.876525
+the total cl in cycle 2and iteration 25is0.911041
+VEL1-0.000414196    0.0933267    -0.365427
+the added velocity is 0.610061
+the current set height is 0.0119658
+the size of the body array is 7676
+End of file25
+writing file26
+the current aoa at centre panel is 6.74473
+the current lift at centre panel is 0.0205184
+the total lift in cycle 2and iteration 26is0.901511
+the total cl in cycle 2and iteration 26is0.937012
+VEL1-0.000409073    0.0949373    -0.367816
+the added velocity is 0.623737
+the current set height is 0.00602683
+the size of the body array is 7777
+End of file26
+writing file27
+the current aoa at centre panel is 6.83562
+the current lift at centre panel is 0.0208052
+the total lift in cycle 2and iteration 27is0.912239
+the total cl in cycle 2and iteration 27is0.948162
+VEL1-0.000401273    0.0950228    -0.364824
+the added velocity is 0.628319
+the current set height is 6.12323e-18
+the size of the body array is 7878
+End of file27
+writing file28
+the current aoa at centre panel is 6.83284
+the current lift at centre panel is 0.0207584
+the total lift in cycle 2and iteration 28is0.908398
+the total cl in cycle 2and iteration 28is0.94417
+VEL1-0.000377781    0.0934902    -0.356528
+the added velocity is 0.623737
+the current set height is -0.00602683
+the size of the body array is 7979
+End of file28
+writing file29
+the current aoa at centre panel is 6.73562
+the current lift at centre panel is 0.0203776
+the total lift in cycle 2and iteration 29is0.89
+the total cl in cycle 2and iteration 29is0.925047
+VEL1-0.000362229    0.0904588     -0.34302
+the added velocity is 0.610061
+the current set height is -0.0119658
+the size of the body array is 8080
+End of file29
+writing file30
+the current aoa at centre panel is 6.54495
+the current lift at centre panel is 0.0196772
+the total lift in cycle 2and iteration 30is0.857658
+the total cl in cycle 2and iteration 30is0.891432
+VEL1-0.000347348    0.0862081    -0.324518
+the added velocity is 0.587488
+the current set height is -0.0177302
+the size of the body array is 8181
+End of file30
+writing file31
+the current aoa at centre panel is 6.26048
+the current lift at centre panel is 0.0186738
+the total lift in cycle 2and iteration 31is0.812107
+the total cl in cycle 2and iteration 31is0.844087
+VEL1-0.000333852    0.0809483    -0.301296
+the added velocity is 0.556348
+the current set height is -0.0232362
+the size of the body array is 8282
+End of file31
+writing file32
+the current aoa at centre panel is 5.88507
+the current lift at centre panel is 0.017394
+the total lift in cycle 2and iteration 32is0.754435
+the total cl in cycle 2and iteration 32is0.784144
+VEL1-0.000319244    0.0749641    -0.273717
+the added velocity is 0.517096
+the current set height is -0.0284032
+the size of the body array is 8383
+End of file32
+writing file33
+the current aoa at centre panel is 5.42088
+the current lift at centre panel is 0.0158639
+the total lift in cycle 2and iteration 33is0.68591
+the total cl in cycle 2and iteration 33is0.712921
+VEL1-0.000312807    0.0686224    -0.242189
+the added velocity is 0.470303
+the current set height is -0.0331561
+the size of the body array is 8484
+End of file33
+writing file34
+the current aoa at centre panel is 4.87315
+the current lift at centre panel is 0.0141176
+the total lift in cycle 2and iteration 34is0.608006
+the total cl in cycle 2and iteration 34is0.631949
+VEL1-0.000310378    0.0622559    -0.207144
+the added velocity is 0.416652
+the current set height is -0.0374255
+the size of the body array is 8585
+End of file34
+writing file35
+the current aoa at centre panel is 4.2487
+the current lift at centre panel is 0.0121891
+the total lift in cycle 2and iteration 35is0.522224
+the total cl in cycle 2and iteration 35is0.542788
+VEL1-0.000304058    0.0562254    -0.169065
+the added velocity is 0.356926
+the current set height is -0.0411492
+the size of the body array is 8686
+End of file35
+writing file36
+the current aoa at centre panel is 3.55659
+the current lift at centre panel is 0.0101139
+the total lift in cycle 2and iteration 36is0.430091
+the total cl in cycle 2and iteration 36is0.447027
+VEL1-0.000297399    0.0508838    -0.128518
+the added velocity is 0.291994
+the current set height is -0.0442728
+the size of the body array is 8787
+End of file36
+writing file37
+the current aoa at centre panel is 2.80625
+the current lift at centre panel is 0.00792149
+the total lift in cycle 2and iteration 37is0.332987
+the total cl in cycle 2and iteration 37is0.3461
+VEL1-0.000292406    0.0465271   -0.0860804
+the added velocity is 0.222805
+the current set height is -0.0467508
+the size of the body array is 8888
+End of file37
+writing file38
+the current aoa at centre panel is 2.01023
+the current lift at centre panel is 0.00564334
+the total lift in cycle 2and iteration 38is0.232297
+the total cl in cycle 2and iteration 38is0.241445
+VEL1-0.000289455    0.0433814   -0.0423619
+the added velocity is 0.150366
+the current set height is -0.0485471
+the size of the body array is 8989
+End of file38
+writing file39
+the current aoa at centre panel is 1.18132
+the current lift at centre panel is 0.00330533
+the total lift in cycle 2and iteration 39is0.129179
+the total cl in cycle 2and iteration 39is0.134266
+VEL1-0.000290451    0.0416848   0.00198815
+the added velocity is 0.0757354
+the current set height is -0.0496354
+the size of the body array is 9090
+End of file39
+writing file40
+the current aoa at centre panel is 0.333603
+the current lift at centre panel is 0.000932592
+the total lift in cycle 2and iteration 40is0.024773
+the total cl in cycle 2and iteration 40is0.0257485
+VEL1-0.000294815    0.0415127    0.0463265
+the added velocity is 1.1542e-16
+the current set height is -0.05
+the size of the body array is 9191
+End of file40
+writing file41
+the current aoa at centre panel is -0.518403
+the current lift at centre panel is -0.00145146
+the total lift in cycle 2and iteration 41is-0.0798679
+the total cl in cycle 2and iteration 41is-0.083013
+VEL1-0.00030279   0.0428968   0.0900657
+the added velocity is -0.0757354
+the current set height is -0.0496354
+the size of the body array is 9292
+End of file41
+writing file42
+the current aoa at centre panel is -1.35841
+the current lift at centre panel is -0.00381829
+the total lift in cycle 2and iteration 42is-0.18352
+the total cl in cycle 2and iteration 42is-0.190746
+VEL1-0.00031331   0.0457479    0.132548
+the added velocity is -0.150366
+the current set height is -0.0485471
+the size of the body array is 9393
+End of file42
+writing file43
+the current aoa at centre panel is -2.17373
+the current lift at centre panel is -0.00614683
+the total lift in cycle 2and iteration 43is-0.285182
+the total cl in cycle 2and iteration 43is-0.296412
+VEL1-0.00032653   0.0499465    0.173111
+the added velocity is -0.222805
+the current set height is -0.0467508
+the size of the body array is 9494
+End of file43
+writing file44
+the current aoa at centre panel is -2.95125
+the current lift at centre panel is -0.00841036
+the total lift in cycle 2and iteration 44is-0.383751
+the total cl in cycle 2and iteration 44is-0.398863
+VEL1-0.000332204    0.0552305      0.21117
+the added velocity is -0.291994
+the current set height is -0.0442728
+the size of the body array is 9595
+End of file44
+writing file45
+the current aoa at centre panel is -3.67955
+the current lift at centre panel is -0.0105804
+the total lift in cycle 2and iteration 45is-0.477979
+the total cl in cycle 2and iteration 45is-0.496801
+VEL1-0.000347952    0.0612755     0.246112
+the added velocity is -0.356926
+the current set height is -0.0411492
+the size of the body array is 9696
+End of file45
+writing file46
+the current aoa at centre panel is -4.34996
+the current lift at centre panel is -0.0126295
+the total lift in cycle 2and iteration 46is-0.566555
+the total cl in cycle 2and iteration 46is-0.588866
+VEL1-0.000363419    0.0677412     0.277485
+the added velocity is -0.416652
+the current set height is -0.0374255
+the size of the body array is 9797
+End of file46
+writing file47
+the current aoa at centre panel is -4.95166
+the current lift at centre panel is -0.0145173
+the total lift in cycle 2and iteration 47is-0.647918
+the total cl in cycle 2and iteration 47is-0.673432
+VEL1-0.000378212    0.0742264     0.304819
+the added velocity is -0.470303
+the current set height is -0.0331561
+the size of the body array is 9898
+End of file47
+writing file48
+the current aoa at centre panel is -5.47925
+the current lift at centre panel is -0.0162131
+the total lift in cycle 2and iteration 48is-0.720661
+the total cl in cycle 2and iteration 48is-0.74904
+VEL1-0.000390071    0.0803635     0.327661
+the added velocity is -0.517096
+the current set height is -0.0284032
+the size of the body array is 9999
+End of file48
+writing file49
+the current aoa at centre panel is -5.92711
+the current lift at centre panel is -0.017683
+the total lift in cycle 2and iteration 49is-0.783355
+the total cl in cycle 2and iteration 49is-0.814203
+VEL1-0.000399339    0.0857951     0.345708
+the added velocity is -0.556348
+the current set height is -0.0232362
+the size of the body array is 10100
+End of file49
+writing file50
+the current aoa at centre panel is -6.29029
+the current lift at centre panel is -0.0188931
+the total lift in cycle 2and iteration 50is-0.834606
+the total cl in cycle 2and iteration 50is-0.867472
+VEL1-0.000407306    0.0901648     0.358688
+the added velocity is -0.587488
+the current set height is -0.0177302
+the size of the body array is 10201
+End of file50
+writing file51
+the current aoa at centre panel is -6.56593
+the current lift at centre panel is -0.0198162
+the total lift in cycle 2and iteration 51is-0.873195
+the total cl in cycle 2and iteration 51is-0.90758
+VEL1-0.000410668    0.0932435      0.36641
+the added velocity is -0.610061
+the current set height is -0.0119658
+the size of the body array is 10302
+End of file51
+writing file52
+the current aoa at centre panel is -6.75106
+the current lift at centre panel is -0.0204295
+the total lift in cycle 2and iteration 52is-0.898179
+the total cl in cycle 2and iteration 52is-0.933549
+VEL1-0.000425842    0.0949111     0.368769
+the added velocity is -0.623737
+the current set height is -0.00602683
+the size of the body array is 10403
+End of file52
+cycle 3
+writing file1
+the current aoa at centre panel is -6.84367
+the current lift at centre panel is -0.0207187
+the total lift in cycle 3and iteration 1is-0.908994
+the total cl in cycle 3and iteration 1is-0.944789
+VEL1-0.00042189   0.0950415    0.365738
+the added velocity is -0.628319
+the current set height is -1.22465e-17
+the size of the body array is 10504
+End of file1
+writing file2
+the current aoa at centre panel is -6.84234
+the current lift at centre panel is -0.0206763
+the total lift in cycle 3and iteration 2is-0.905293
+the total cl in cycle 3and iteration 2is-0.940943
+VEL1-0.00041268     0.09362      0.3574
+the added velocity is -0.623737
+the current set height is 0.00602683
+the size of the body array is 10605
+End of file2
+writing file3
+the current aoa at centre panel is -6.74571
+the current lift at centre panel is -0.0203018
+the total lift in cycle 3and iteration 3is-0.887133
+the total cl in cycle 3and iteration 3is-0.922067
+VEL1-0.000401008    0.0907803     0.343881
+the added velocity is -0.610061
+the current set height is 0.0119658
+the size of the body array is 10706
+End of file3
+writing file4
+the current aoa at centre panel is -6.55404
+the current lift at centre panel is -0.0196071
+the total lift in cycle 3and iteration 4is-0.854979
+the total cl in cycle 3and iteration 4is-0.888647
+VEL1-0.000386361    0.0866619     0.325347
+the added velocity is -0.587488
+the current set height is 0.0177302
+the size of the body array is 10807
+End of file4
+writing file5
+the current aoa at centre panel is -6.26904
+the current lift at centre panel is -0.0186121
+the total lift in cycle 3and iteration 5is-0.809672
+the total cl in cycle 3and iteration 5is-0.841556
+VEL1-0.000369405    0.0815124     0.302093
+the added velocity is -0.556348
+the current set height is 0.0232362
+the size of the body array is 10908
+End of file5
+writing file6
+the current aoa at centre panel is -5.8921
+the current lift at centre panel is -0.0173395
+the total lift in cycle 3and iteration 6is-0.752291
+the total cl in cycle 3and iteration 6is-0.781915
+VEL1-0.000352187    0.0756376     0.274467
+the added velocity is -0.517096
+the current set height is 0.0284032
+the size of the body array is 11009
+End of file6
+writing file7
+the current aoa at centre panel is -5.42692
+the current lift at centre panel is -0.0158194
+the total lift in cycle 3and iteration 7is-0.684142
+the total cl in cycle 3and iteration 7is-0.711083
+VEL1-0.000335449    0.0693891     0.242866
+the added velocity is -0.470303
+the current set height is 0.0331561
+the size of the body array is 11110
+End of file7
+writing file8
+the current aoa at centre panel is -4.87833
+the current lift at centre panel is -0.0140838
+the total lift in cycle 3and iteration 8is-0.606637
+the total cl in cycle 3and iteration 8is-0.630526
+VEL1-0.000319159    0.0630852     0.207739
+the added velocity is -0.416652
+the current set height is 0.0374255
+the size of the body array is 11211
+End of file8
+writing file9
+the current aoa at centre panel is -4.25346
+the current lift at centre panel is -0.0121668
+the total lift in cycle 3and iteration 9is-0.521242
+the total cl in cycle 3and iteration 9is-0.541768
+VEL1-0.000307375    0.0571214     0.169629
+the added velocity is -0.356926
+the current set height is 0.0411492
+the size of the body array is 11312
+End of file9
+writing file10
+the current aoa at centre panel is -3.5596
+the current lift at centre panel is -0.0100983
+the total lift in cycle 3and iteration 10is-0.429394
+the total cl in cycle 3and iteration 10is-0.446303
+VEL1-0.000300408    0.0518567     0.129087
+the added velocity is -0.291994
+the current set height is 0.0442728
+the size of the body array is 11413
+End of file10
+writing file11
+the current aoa at centre panel is -2.80752
+the current lift at centre panel is -0.00791116
+the total lift in cycle 3and iteration 11is-0.332517
+the total cl in cycle 3and iteration 11is-0.345611
+VEL1-0.000297058    0.0475868    0.0866448
+the added velocity is -0.222805
+the current set height is 0.0467508
+the size of the body array is 11514
+End of file11
+writing file12
+the current aoa at centre panel is -2.01024
+the current lift at centre panel is -0.00563731
+the total lift in cycle 3and iteration 12is-0.231988
+the total cl in cycle 3and iteration 12is-0.241123
+VEL1-0.000298165    0.0445622    0.0429182
+the added velocity is -0.150366
+the current set height is 0.0485471
+the size of the body array is 11615
+End of file12
+writing file13
+the current aoa at centre panel is -1.18069
+the current lift at centre panel is -0.00330253
+the total lift in cycle 3and iteration 13is-0.128994
+the total cl in cycle 3and iteration 13is-0.134074
+VEL1-0.000302474    0.0429607  -0.00144736
+the added velocity is -0.0757354
+the current set height is 0.0496354
+the size of the body array is 11716
+End of file13
+writing file14
+the current aoa at centre panel is -0.333291
+the current lift at centre panel is -0.000932119
+the total lift in cycle 3and iteration 14is-0.024674
+the total cl in cycle 3and iteration 14is-0.0256456
+VEL1-0.000310342    0.0428652   -0.0458114
+the added velocity is -3.84734e-17
+the current set height is 0.05
+the size of the body array is 11817
+End of file14
+writing file15
+the current aoa at centre panel is 0.517358
+the current lift at centre panel is 0.00145023
+the total lift in cycle 3and iteration 15is0.079881
+the total cl in cycle 3and iteration 15is0.0830267
+VEL1-0.000324178    0.0443241   -0.0895247
+the added velocity is 0.0757354
+the current set height is 0.0496354
+the size of the body array is 11918
+End of file15
+writing file16
+the current aoa at centre panel is 1.35672
+the current lift at centre panel is 0.0038208
+the total lift in cycle 3and iteration 16is0.183637
+the total cl in cycle 3and iteration 16is0.190868
+VEL1-0.000336897    0.0472506    -0.131983
+the added velocity is 0.150366
+the current set height is 0.0485471
+the size of the body array is 12019
+End of file16
+writing file17
+the current aoa at centre panel is 2.16983
+the current lift at centre panel is 0.00615186
+the total lift in cycle 3and iteration 17is0.285425
+the total cl in cycle 3and iteration 17is0.296664
+VEL1-0.000352373     0.051509    -0.172516
+the added velocity is 0.222805
+the current set height is 0.0467508
+the size of the body array is 12120
+End of file17
+writing file18
+the current aoa at centre panel is 2.9456
+the current lift at centre panel is 0.00842194
+the total lift in cycle 3and iteration 18is0.384201
+the total cl in cycle 3and iteration 18is0.399331
+VEL1-0.00036869   0.0568346   -0.210518
+the added velocity is 0.291994
+the current set height is 0.0442728
+the size of the body array is 12221
+End of file18
+writing file19
+the current aoa at centre panel is 3.67177
+the current lift at centre panel is 0.0105995
+the total lift in cycle 3and iteration 19is0.478661
+the total cl in cycle 3and iteration 19is0.497511
+VEL1-0.000386468    0.0629176    -0.245454
+the added velocity is 0.356926
+the current set height is 0.0411492
+the size of the body array is 12322
+End of file19
+writing file20
+the current aoa at centre panel is 4.33861
+the current lift at centre panel is 0.0126532
+the total lift in cycle 3and iteration 20is0.567442
+the total cl in cycle 3and iteration 20is0.589787
+VEL1-0.000402228    0.0693918      -0.2768
+the added velocity is 0.416652
+the current set height is 0.0374255
+the size of the body array is 12423
+End of file20
+writing file21
+the current aoa at centre panel is 4.93771
+the current lift at centre panel is 0.0145487
+the total lift in cycle 3and iteration 21is0.649064
+the total cl in cycle 3and iteration 21is0.674624
+VEL1-0.000416997    0.0758838     -0.30413
+the added velocity is 0.470303
+the current set height is 0.0331561
+the size of the body array is 12524
+End of file21
+writing file22
+the current aoa at centre panel is 5.46142
+the current lift at centre panel is 0.0162483
+the total lift in cycle 3and iteration 22is0.721972
+the total cl in cycle 3and iteration 22is0.750403
+VEL1-0.000428031    0.0819858    -0.326984
+the added velocity is 0.517096
+the current set height is 0.0284032
+the size of the body array is 12625
+End of file22
+writing file23
+the current aoa at centre panel is 5.9061
+the current lift at centre panel is 0.0177222
+the total lift in cycle 3and iteration 23is0.784821
+the total cl in cycle 3and iteration 23is0.815726
+VEL1-0.000435898    0.0873472    -0.344998
+the added velocity is 0.556348
+the current set height is 0.0232362
+the size of the body array is 12726
+End of file23
+writing file24
+the current aoa at centre panel is 6.26726
+the current lift at centre panel is 0.0189374
+the total lift in cycle 3and iteration 24is0.836244
+the total cl in cycle 3and iteration 24is0.869174
+VEL1-0.000438093    0.0916418    -0.357941
+the added velocity is 0.587488
+the current set height is 0.0177302
+the size of the body array is 12827
+End of file24
+writing file25
+the current aoa at centre panel is 6.54126
+the current lift at centre panel is 0.0198645
+the total lift in cycle 3and iteration 25is0.874971
+the total cl in cycle 3and iteration 25is0.909427
+VEL1-0.00043622   0.0946478   -0.365652
+the added velocity is 0.610061
+the current set height is 0.0119658
+the size of the body array is 12928
+End of file25
+writing file26
+the current aoa at centre panel is 6.7249
+the current lift at centre panel is 0.0204795
+the total lift in cycle 3and iteration 26is0.900025
+the total cl in cycle 3and iteration 26is0.935468
+VEL1-0.000430975     0.096216    -0.368004
+the added velocity is 0.623737
+the current set height is 0.00602683
+the size of the body array is 13029
+End of file26
+writing file27
+the current aoa at centre panel is 6.81677
+the current lift at centre panel is 0.020769
+the total lift in cycle 3and iteration 27is0.910833
+the total cl in cycle 3and iteration 27is0.946701
+VEL1-0.000422985    0.0962487    -0.364976
+the added velocity is 0.628319
+the current set height is 6.12323e-18
+the size of the body array is 13130
+End of file27
+writing file28
+the current aoa at centre panel is 6.81497
+the current lift at centre panel is 0.0207245
+the total lift in cycle 3and iteration 28is0.90704
+the total cl in cycle 3and iteration 28is0.942759
+VEL1-0.000411138    0.0947393    -0.356644
+the added velocity is 0.623737
+the current set height is -0.00602683
+the size of the body array is 13231
+End of file28
+writing file29
+the current aoa at centre panel is 6.71864
+the current lift at centre panel is 0.0203471
+the total lift in cycle 3and iteration 29is0.888721
+the total cl in cycle 3and iteration 29is0.923719
+VEL1-0.000395903    0.0917691    -0.343124
+the added velocity is 0.610061
+the current set height is -0.0119658
+the size of the body array is 13332
+End of file29
+writing file30
+the current aoa at centre panel is 6.52807
+the current lift at centre panel is 0.0196481
+the total lift in cycle 3and iteration 30is0.856362
+the total cl in cycle 3and iteration 30is0.890085
+VEL1-0.000378838    0.0875209     -0.32462
+the added velocity is 0.587488
+the current set height is -0.0177302
+the size of the body array is 13433
+End of file30
+writing file31
+the current aoa at centre panel is 6.24396
+the current lift at centre panel is 0.0186454
+the total lift in cycle 3and iteration 31is0.810773
+the total cl in cycle 3and iteration 31is0.842701
+VEL1-0.000362123    0.0822344     -0.30141
+the added velocity is 0.556348
+the current set height is -0.0232362
+the size of the body array is 13534
+End of file31
+writing file32
+the current aoa at centre panel is 5.86841
+the current lift at centre panel is 0.0173641
+the total lift in cycle 3and iteration 32is0.753059
+the total cl in cycle 3and iteration 32is0.782714
+VEL1-0.00034408   0.0762488   -0.273823
+the added velocity is 0.517096
+the current set height is -0.0284032
+the size of the body array is 13635
+End of file32
+writing file33
+the current aoa at centre panel is 5.40482
+the current lift at centre panel is 0.0158348
+the total lift in cycle 3and iteration 33is0.684556
+the total cl in cycle 3and iteration 33is0.711513
+VEL1-0.000327202    0.0698664    -0.242248
+the added velocity is 0.470303
+the current set height is -0.0331561
+the size of the body array is 13736
+End of file33
+writing file34
+the current aoa at centre panel is 4.85842
+the current lift at centre panel is 0.0140906
+the total lift in cycle 3and iteration 34is0.606734
+the total cl in cycle 3and iteration 34is0.630627
+VEL1-0.000312904    0.0634729    -0.207149
+the added velocity is 0.416652
+the current set height is -0.0374255
+the size of the body array is 13837
+End of file34
+writing file35
+the current aoa at centre panel is 4.2355
+the current lift at centre panel is 0.0121649
+the total lift in cycle 3and iteration 35is0.521029
+the total cl in cycle 3and iteration 35is0.541547
+VEL1-0.000301587     0.057431    -0.169051
+the added velocity is 0.356926
+the current set height is -0.0411492
+the size of the body array is 13938
+End of file35
+writing file36
+the current aoa at centre panel is 3.5441
+the current lift at centre panel is 0.0100898
+the total lift in cycle 3and iteration 36is0.428921
+the total cl in cycle 3and iteration 36is0.445812
+VEL1-0.000295636    0.0520755    -0.128503
+the added velocity is 0.291994
+the current set height is -0.0442728
+the size of the body array is 14039
+End of file36
+writing file37
+the current aoa at centre panel is 2.79446
+the current lift at centre panel is 0.00789716
+the total lift in cycle 3and iteration 37is0.331834
+the total cl in cycle 3and iteration 37is0.344901
+VEL1-0.000290782    0.0477359   -0.0860643
+the added velocity is 0.222805
+the current set height is -0.0467508
+the size of the body array is 14140
+End of file37
+writing file38
+the current aoa at centre panel is 1.9989
+the current lift at centre panel is 0.00561811
+the total lift in cycle 3and iteration 38is0.231127
+the total cl in cycle 3and iteration 38is0.240229
+VEL1-0.000291404    0.0446612   -0.0423366
+the added velocity is 0.150366
+the current set height is -0.0485471
+the size of the body array is 14241
+End of file38
+writing file39
+the current aoa at centre panel is 1.17079
+the current lift at centre panel is 0.00328001
+the total lift in cycle 3and iteration 39is0.12802
+the total cl in cycle 3and iteration 39is0.133061
+VEL1-0.000296074     0.043027   0.00205447
+the added velocity is 0.0757354
+the current set height is -0.0496354
+the size of the body array is 14342
+End of file39
+writing file40
+the current aoa at centre panel is 0.324616
+the current lift at centre panel is 0.000908686
+the total lift in cycle 3and iteration 40is0.023673
+the total cl in cycle 3and iteration 40is0.0246053
+VEL1-0.000304016    0.0429642    0.0464193
+the added velocity is 1.1542e-16
+the current set height is -0.05
+the size of the body array is 14443
+End of file40
+writing file41
+the current aoa at centre panel is -0.526318
+the current lift at centre panel is -0.00147578
+the total lift in cycle 3and iteration 41is-0.0809682
+the total cl in cycle 3and iteration 41is-0.0841567
+VEL1-0.000316845    0.0444686     0.090102
+the added velocity is -0.0757354
+the current set height is -0.0496354
+the size of the body array is 14544
+End of file41
+writing file42
+the current aoa at centre panel is -1.36703
+the current lift at centre panel is -0.00384863
+the total lift in cycle 3and iteration 42is-0.18478
+the total cl in cycle 3and iteration 42is-0.192057
+VEL1-0.000332578    0.0474506     0.132503
+the added velocity is -0.150366
+the current set height is -0.0485471
+the size of the body array is 14645
+End of file42
+writing file43
+the current aoa at centre panel is -2.18304
+the current lift at centre panel is -0.00618382
+the total lift in cycle 3and iteration 43is-0.286643
+the total cl in cycle 3and iteration 43is-0.297931
+VEL1-0.00035011   0.0517437    0.173012
+the added velocity is -0.222805
+the current set height is -0.0467508
+the size of the body array is 14746
+End of file43
+writing file44
+the current aoa at centre panel is -2.96112
+the current lift at centre panel is -0.00845395
+the total lift in cycle 3and iteration 44is-0.385383
+the total cl in cycle 3and iteration 44is-0.400559
+VEL1-0.00036854   0.0570928    0.211027
+the added velocity is -0.291994
+the current set height is -0.0442728
+the size of the body array is 14847
+End of file44
+writing file45
+the current aoa at centre panel is -3.68975
+the current lift at centre panel is -0.01063
+the total lift in cycle 3and iteration 45is-0.479746
+the total cl in cycle 3and iteration 45is-0.498638
+VEL1-0.000386404    0.0631851     0.245981
+the added velocity is -0.356926
+the current set height is -0.0411492
+the size of the body array is 14948
+End of file45
+writing file46
+the current aoa at centre panel is -4.35906
+the current lift at centre panel is -0.0126807
+the total lift in cycle 3and iteration 46is-0.568387
+the total cl in cycle 3and iteration 46is-0.590769
+VEL1-0.000402725     0.069674      0.27735
+the added velocity is -0.416652
+the current set height is -0.0374255
+the size of the body array is 15049
+End of file46
+writing file47
+the current aoa at centre panel is -4.96066
+the current lift at centre panel is -0.0145724
+the total lift in cycle 3and iteration 47is-0.649873
+the total cl in cycle 3and iteration 47is-0.675464
+VEL1-0.000417139    0.0761739     0.304672
+the added velocity is -0.470303
+the current set height is -0.0331561
+the size of the body array is 15150
+End of file47
+writing file48
+the current aoa at centre panel is -5.48766
+the current lift at centre panel is -0.0162705
+the total lift in cycle 3and iteration 48is-0.722708
+the total cl in cycle 3and iteration 48is-0.751168
+VEL1-0.000427424    0.0823116     0.327534
+the added velocity is -0.517096
+the current set height is -0.0284032
+the size of the body array is 15251
+End of file48
+writing file49
+the current aoa at centre panel is -5.93473
+the current lift at centre panel is -0.0177412
+the total lift in cycle 3and iteration 49is-0.785456
+the total cl in cycle 3and iteration 49is-0.816387
+VEL1-0.000434453    0.0877315     0.345591
+the added velocity is -0.556348
+the current set height is -0.0232362
+the size of the body array is 15352
+End of file49
+writing file50
+the current aoa at centre panel is -6.29753
+the current lift at centre panel is -0.0189525
+the total lift in cycle 3and iteration 50is-0.836756
+the total cl in cycle 3and iteration 50is-0.869706
+VEL1-0.00043635   0.0920956    0.358566
+the added velocity is -0.587488
+the current set height is -0.0177302
+the size of the body array is 15453
+End of file50
+writing file51
+the current aoa at centre panel is -6.57305
+the current lift at centre panel is -0.0198772
+the total lift in cycle 3and iteration 51is-0.875413
+the total cl in cycle 3and iteration 51is-0.909886
+VEL1-0.000434485    0.0951538     0.366308
+the added velocity is -0.610061
+the current set height is -0.0119658
+the size of the body array is 15554
+End of file51
+writing file52
+the current aoa at centre panel is -6.75747
+the current lift at centre panel is -0.0204893
+the total lift in cycle 3and iteration 52is-0.900414
+the total cl in cycle 3and iteration 52is-0.935871
+VEL1-0.000429869    0.0967723     0.368695
+the added velocity is -0.623737
+the current set height is -0.00602683
+the size of the body array is 15655
+End of file52

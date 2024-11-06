@@ -1,0 +1,912 @@
+Calculating AIC matrix
+3164
+3.57162s
+Calculating AIC matrix inverse
+14.3025s
+the panel center is0.01
+the panel center is0.03
+the panel center is0.05
+the panel center is0.07
+the panel center is0.09
+the panel center is0.11
+the panel center is0.13
+the panel center is0.15
+the panel center is0.17
+the panel center is0.19
+the panel center is0.21
+the panel center is0.23
+the panel center is0.25
+the panel center is0.27
+the panel center is0.29
+the panel center is0.31
+the panel center is0.33
+the panel center is0.35
+the panel center is0.37
+the panel center is0.39
+the panel center is0.41
+the panel center is0.43
+the panel center is0.45
+the panel center is0.47
+the panel center is0.49
+the panel center is0.51
+the panel center is0.53
+the panel center is0.55
+the panel center is0.57
+the panel center is0.59
+the panel center is0.61
+the panel center is0.63
+the panel center is0.65
+the panel center is0.67
+the panel center is0.69
+the panel center is0.71
+the panel center is0.73
+the panel center is0.75
+the panel center is0.77
+the panel center is0.79
+the panel center is0.81
+the panel center is0.83
+the panel center is0.85
+the panel center is0.87
+the panel center is0.89
+the panel center is0.91
+the panel center is0.93
+the panel center is0.95
+the panel center is0.97
+the panel center is0.99
+the panel edge is0
+the panel edge is0.02
+the panel edge is0.04
+the panel edge is0.06
+the panel edge is0.08
+the panel edge is0.1
+the panel edge is0.12
+the panel edge is0.14
+the panel edge is0.16
+the panel edge is0.18
+the panel edge is0.2
+the panel edge is0.22
+the panel edge is0.24
+the panel edge is0.26
+the panel edge is0.28
+the panel edge is0.3
+the panel edge is0.32
+the panel edge is0.34
+the panel edge is0.36
+the panel edge is0.38
+the panel edge is0.4
+the panel edge is0.42
+the panel edge is0.44
+the panel edge is0.46
+the panel edge is0.48
+the panel edge is0.5
+the panel edge is0.52
+the panel edge is0.54
+the panel edge is0.56
+the panel edge is0.58
+the panel edge is0.6
+the panel edge is0.62
+the panel edge is0.64
+the panel edge is0.66
+the panel edge is0.68
+the panel edge is0.7
+the panel edge is0.72
+the panel edge is0.74
+the panel edge is0.76
+the panel edge is0.78
+the panel edge is0.8
+the panel edge is0.82
+the panel edge is0.84
+the panel edge is0.86
+the panel edge is0.88
+the panel edge is0.9
+the panel edge is0.92
+the panel edge is0.94
+the panel edge is0.96
+the panel edge is0.98
+the panel edge is1
+0.02
+chord length 0is 0.0994987
+chord length 1is 0.170587
+chord length 2is 0.217945
+chord length 3is 0.255147
+chord length 4is 0.286182
+chord length 5is 0.31289
+chord length 6is 0.336303
+chord length 7is 0.357071
+chord length 8is 0.375633
+chord length 9is 0.392301
+chord length 10is 0.407308
+chord length 11is 0.420833
+chord length 12is 0.433013
+chord length 13is 0.443959
+chord length 14is 0.453762
+chord length 15is 0.462493
+chord length 16is 0.470213
+chord length 17is 0.47697
+chord length 18is 0.482804
+chord length 19is 0.48775
+chord length 20is 0.491833
+chord length 21is 0.495076
+chord length 22is 0.497494
+chord length 23is 0.499099
+chord length 24is 0.4999
+chord length 25is 0.4999
+chord length 26is 0.499099
+chord length 27is 0.497494
+chord length 28is 0.495076
+chord length 29is 0.491833
+chord length 30is 0.48775
+chord length 31is 0.482804
+chord length 32is 0.47697
+chord length 33is 0.470213
+chord length 34is 0.462493
+chord length 35is 0.453762
+chord length 36is 0.443959
+chord length 37is 0.433013
+chord length 38is 0.420833
+chord length 39is 0.407308
+chord length 40is 0.392301
+chord length 41is 0.375633
+chord length 42is 0.357071
+chord length 43is 0.336303
+chord length 44is 0.31289
+chord length 45is 0.286182
+chord length 46is 0.255147
+chord length 47is 0.217945
+chord length 48is 0.170587
+chord length 49is 0.0994987
+--- FMM Profiling    ------------
+first size of bodies array is 0
+cylce 1
+the total lift in cycle 1and iteration 1is0.132
+the total cl in cycle 1and iteration 1is0.548791
+the size of the body array is 101
+the current set aoa is 0.0872665
+writing file1
+the total lift in cycle 1and iteration 2is0.0101944
+the total cl in cycle 1and iteration 2is0.0423833
+the size of the body array is 202
+the current set aoa is 0.0218748
+writing file2
+the total lift in cycle 1and iteration 3is0.0417199
+the total cl in cycle 1and iteration 3is0.173451
+the size of the body array is 303
+the current set aoa is 0.0434046
+writing file3
+the total lift in cycle 1and iteration 4is0.0673013
+the total cl in cycle 1and iteration 4is0.279806
+the size of the body array is 404
+the current set aoa is 0.0642499
+writing file4
+the total lift in cycle 1and iteration 5is0.0876008
+the total cl in cycle 1and iteration 5is0.364202
+the size of the body array is 505
+the current set aoa is 0.0840819
+writing file5
+the total lift in cycle 1and iteration 6is0.103274
+the total cl in cycle 1and iteration 6is0.429361
+the size of the body array is 606
+the current set aoa is 0.102588
+writing file6
+the total lift in cycle 1and iteration 7is0.11492
+the total cl in cycle 1and iteration 7is0.477782
+the size of the body array is 707
+the current set aoa is 0.119476
+writing file7
+the total lift in cycle 1and iteration 8is0.123075
+the total cl in cycle 1and iteration 8is0.511685
+the size of the body array is 808
+the current set aoa is 0.13448
+writing file8
+the total lift in cycle 1and iteration 9is0.128195
+the total cl in cycle 1and iteration 9is0.532975
+the size of the body array is 909
+the current set aoa is 0.147363
+writing file9
+the total lift in cycle 1and iteration 10is0.130667
+the total cl in cycle 1and iteration 10is0.54325
+the size of the body array is 1010
+the current set aoa is 0.157922
+writing file10
+the total lift in cycle 1and iteration 11is0.130817
+the total cl in cycle 1and iteration 11is0.543872
+the size of the body array is 1111
+the current set aoa is 0.165991
+writing file11
+the total lift in cycle 1and iteration 12is0.128897
+the total cl in cycle 1and iteration 12is0.535893
+the size of the body array is 1212
+the current set aoa is 0.171441
+writing file12
+the total lift in cycle 1and iteration 13is0.12512
+the total cl in cycle 1and iteration 13is0.520188
+the size of the body array is 1313
+the current set aoa is 0.174189
+writing file13
+the total lift in cycle 1and iteration 14is0.119656
+the total cl in cycle 1and iteration 14is0.497471
+the size of the body array is 1414
+the current set aoa is 0.174189
+writing file14
+the total lift in cycle 1and iteration 15is0.112658
+the total cl in cycle 1and iteration 15is0.468376
+the size of the body array is 1515
+the current set aoa is 0.171441
+writing file15
+the total lift in cycle 1and iteration 16is0.104262
+the total cl in cycle 1and iteration 16is0.433469
+the size of the body array is 1616
+the current set aoa is 0.165991
+writing file16
+the total lift in cycle 1and iteration 17is0.0945995
+the total cl in cycle 1and iteration 17is0.393299
+the size of the body array is 1717
+the current set aoa is 0.157922
+writing file17
+the total lift in cycle 1and iteration 18is0.0838018
+the total cl in cycle 1and iteration 18is0.348407
+the size of the body array is 1818
+the current set aoa is 0.147363
+writing file18
+the total lift in cycle 1and iteration 19is0.0720044
+the total cl in cycle 1and iteration 19is0.299359
+the size of the body array is 1919
+the current set aoa is 0.13448
+writing file19
+the total lift in cycle 1and iteration 20is0.0593552
+the total cl in cycle 1and iteration 20is0.24677
+the size of the body array is 2020
+the current set aoa is 0.119476
+writing file20
+the total lift in cycle 1and iteration 21is0.0460033
+the total cl in cycle 1and iteration 21is0.191259
+the size of the body array is 2121
+the current set aoa is 0.102588
+writing file21
+the total lift in cycle 1and iteration 22is0.0321226
+the total cl in cycle 1and iteration 22is0.13355
+the size of the body array is 2222
+the current set aoa is 0.0840819
+writing file22
+the total lift in cycle 1and iteration 23is0.0178842
+the total cl in cycle 1and iteration 23is0.0743539
+the size of the body array is 2323
+the current set aoa is 0.0642499
+writing file23
+the total lift in cycle 1and iteration 24is0.00360655
+the total cl in cycle 1and iteration 24is0.0149943
+the size of the body array is 2424
+the current set aoa is 0.0434046
+writing file24
+the total lift in cycle 1and iteration 25is0.0117441
+the total cl in cycle 1and iteration 25is0.0488261
+the size of the body array is 2525
+the current set aoa is 0.0218748
+writing file25
+the total lift in cycle 1and iteration 26is0.0291301
+the total cl in cycle 1and iteration 26is0.121109
+the size of the body array is 2626
+the current set aoa is 2.13741e-17
+writing file26
+the total lift in cycle 1and iteration 27is-0.0522049
+the total cl in cycle 1and iteration 27is-0.217043
+the size of the body array is 2727
+the current set aoa is -0.0218748
+writing file27
+the total lift in cycle 1and iteration 28is-0.0622966
+the total cl in cycle 1and iteration 28is-0.258999
+the size of the body array is 2828
+the current set aoa is -0.0434046
+writing file28
+the total lift in cycle 1and iteration 29is-0.0719935
+the total cl in cycle 1and iteration 29is-0.299314
+the size of the body array is 2929
+the current set aoa is -0.0642499
+writing file29
+the total lift in cycle 1and iteration 30is-0.0809
+the total cl in cycle 1and iteration 30is-0.336343
+the size of the body array is 3030
+the current set aoa is -0.0840819
+writing file30
+the total lift in cycle 1and iteration 31is-0.0888825
+the total cl in cycle 1and iteration 31is-0.36953
+the size of the body array is 3131
+the current set aoa is -0.102588
+writing file31
+the total lift in cycle 1and iteration 32is-0.0957693
+the total cl in cycle 1and iteration 32is-0.398163
+the size of the body array is 3232
+the current set aoa is -0.119476
+writing file32
+the total lift in cycle 1and iteration 33is-0.101405
+the total cl in cycle 1and iteration 33is-0.421595
+the size of the body array is 3333
+the current set aoa is -0.13448
+writing file33
+the total lift in cycle 1and iteration 34is-0.105669
+the total cl in cycle 1and iteration 34is-0.439322
+the size of the body array is 3434
+the current set aoa is -0.147363
+writing file34
+the total lift in cycle 1and iteration 35is-0.108409
+the total cl in cycle 1and iteration 35is-0.450711
+the size of the body array is 3535
+the current set aoa is -0.157922
+writing file35
+the total lift in cycle 1and iteration 36is-0.109555
+the total cl in cycle 1and iteration 36is-0.455476
+the size of the body array is 3636
+the current set aoa is -0.165991
+writing file36
+the total lift in cycle 1and iteration 37is-0.109011
+the total cl in cycle 1and iteration 37is-0.453213
+the size of the body array is 3737
+the current set aoa is -0.171441
+writing file37
+the total lift in cycle 1and iteration 38is-0.106764
+the total cl in cycle 1and iteration 38is-0.443872
+the size of the body array is 3838
+the current set aoa is -0.174189
+writing file38
+the total lift in cycle 1and iteration 39is-0.102802
+the total cl in cycle 1and iteration 39is-0.427401
+the size of the body array is 3939
+the current set aoa is -0.174189
+writing file39
+the total lift in cycle 1and iteration 40is-0.0971798
+the total cl in cycle 1and iteration 40is-0.404027
+the size of the body array is 4040
+the current set aoa is -0.171441
+writing file40
+the total lift in cycle 1and iteration 41is-0.0899674
+the total cl in cycle 1and iteration 41is-0.374041
+the size of the body array is 4141
+the current set aoa is -0.165991
+writing file41
+the total lift in cycle 1and iteration 42is-0.0812922
+the total cl in cycle 1and iteration 42is-0.337974
+the size of the body array is 4242
+the current set aoa is -0.157922
+writing file42
+the total lift in cycle 1and iteration 43is-0.0712717
+the total cl in cycle 1and iteration 43is-0.296313
+the size of the body array is 4343
+the current set aoa is -0.147363
+writing file43
+the total lift in cycle 1and iteration 44is-0.0600719
+the total cl in cycle 1and iteration 44is-0.24975
+the size of the body array is 4444
+the current set aoa is -0.13448
+writing file44
+the total lift in cycle 1and iteration 45is-0.047849
+the total cl in cycle 1and iteration 45is-0.198933
+the size of the body array is 4545
+the current set aoa is -0.119476
+writing file45
+the total lift in cycle 1and iteration 46is-0.0348098
+the total cl in cycle 1and iteration 46is-0.144722
+the size of the body array is 4646
+the current set aoa is -0.102588
+writing file46
+the total lift in cycle 1and iteration 47is-0.021146
+the total cl in cycle 1and iteration 47is-0.0879148
+the size of the body array is 4747
+the current set aoa is -0.0840819
+writing file47
+the total lift in cycle 1and iteration 48is-0.00708389
+the total cl in cycle 1and iteration 48is-0.0294514
+the size of the body array is 4848
+the current set aoa is -0.0642499
+writing file48
+the total lift in cycle 1and iteration 49is-0.00926023
+the total cl in cycle 1and iteration 49is-0.0384996
+the size of the body array is 4949
+the current set aoa is -0.0434046
+writing file49
+the total lift in cycle 1and iteration 50is-0.0246008
+the total cl in cycle 1and iteration 50is-0.102278
+the size of the body array is 5050
+the current set aoa is -0.0218748
+writing file50
+cylce 2
+the total lift in cycle 2and iteration 1is0.0466527
+the total cl in cycle 2and iteration 1is0.193959
+the size of the body array is 5151
+the current set aoa is 0
+writing file1
+the total lift in cycle 2and iteration 2is0.0577897
+the total cl in cycle 2and iteration 2is0.240262
+the size of the body array is 5252
+the current set aoa is 0.0218748
+writing file2
+the total lift in cycle 2and iteration 3is0.0685419
+the total cl in cycle 2and iteration 3is0.284964
+the size of the body array is 5353
+the current set aoa is 0.0434046
+writing file3
+the total lift in cycle 2and iteration 4is0.0787344
+the total cl in cycle 2and iteration 4is0.32734
+the size of the body array is 5454
+the current set aoa is 0.0642499
+writing file4
+the total lift in cycle 2and iteration 5is0.0881114
+the total cl in cycle 2and iteration 5is0.366325
+the size of the body array is 5555
+the current set aoa is 0.0840819
+writing file5
+the total lift in cycle 2and iteration 6is0.096512
+the total cl in cycle 2and iteration 6is0.40125
+the size of the body array is 5656
+the current set aoa is 0.102588
+writing file6
+the total lift in cycle 2and iteration 7is0.103765
+the total cl in cycle 2and iteration 7is0.431403
+the size of the body array is 5757
+the current set aoa is 0.119476
+writing file7
+the total lift in cycle 2and iteration 8is0.109699
+the total cl in cycle 2and iteration 8is0.456075
+the size of the body array is 5858
+the current set aoa is 0.13448
+writing file8
+the total lift in cycle 2and iteration 9is0.114165
+the total cl in cycle 2and iteration 9is0.474644
+the size of the body array is 5959
+the current set aoa is 0.147363
+writing file9
+the total lift in cycle 2and iteration 10is0.117032
+the total cl in cycle 2and iteration 10is0.486562
+the size of the body array is 6060
+the current set aoa is 0.157922
+writing file10
+the total lift in cycle 2and iteration 11is0.11821
+the total cl in cycle 2and iteration 11is0.491461
+the size of the body array is 6161
+the current set aoa is 0.165991
+writing file11
+the total lift in cycle 2and iteration 12is0.117624
+the total cl in cycle 2and iteration 12is0.489026
+the size of the body array is 6262
+the current set aoa is 0.171441
+writing file12
+the total lift in cycle 2and iteration 13is0.115267
+the total cl in cycle 2and iteration 13is0.479225
+the size of the body array is 6363
+the current set aoa is 0.174189
+writing file13
+the total lift in cycle 2and iteration 14is0.111142
+the total cl in cycle 2and iteration 14is0.462076
+the size of the body array is 6464
+the current set aoa is 0.174189
+writing file14
+the total lift in cycle 2and iteration 15is0.105311
+the total cl in cycle 2and iteration 15is0.437833
+the size of the body array is 6565
+the current set aoa is 0.171441
+writing file15
+the total lift in cycle 2and iteration 16is0.097864
+the total cl in cycle 2and iteration 16is0.406871
+the size of the body array is 6666
+the current set aoa is 0.165991
+writing file16
+the total lift in cycle 2and iteration 17is0.0889235
+the total cl in cycle 2and iteration 17is0.369701
+the size of the body array is 6767
+the current set aoa is 0.157922
+writing file17
+the total lift in cycle 2and iteration 18is0.0786267
+the total cl in cycle 2and iteration 18is0.326892
+the size of the body array is 6868
+the current set aoa is 0.147363
+writing file18
+the total lift in cycle 2and iteration 19is0.0671468
+the total cl in cycle 2and iteration 19is0.279164
+the size of the body array is 6969
+the current set aoa is 0.13448
+writing file19
+the total lift in cycle 2and iteration 20is0.054663
+the total cl in cycle 2and iteration 20is0.227262
+the size of the body array is 7070
+the current set aoa is 0.119476
+writing file20
+the total lift in cycle 2and iteration 21is0.0413746
+the total cl in cycle 2and iteration 21is0.172016
+the size of the body array is 7171
+the current set aoa is 0.102588
+writing file21
+the total lift in cycle 2and iteration 22is0.0274831
+the total cl in cycle 2and iteration 22is0.114262
+the size of the body array is 7272
+the current set aoa is 0.0840819
+writing file22
+the total lift in cycle 2and iteration 23is0.0132017
+the total cl in cycle 2and iteration 23is0.0548864
+the size of the body array is 7373
+the current set aoa is 0.0642499
+writing file23
+the total lift in cycle 2and iteration 24is0.00455564
+the total cl in cycle 2and iteration 24is0.0189402
+the size of the body array is 7474
+the current set aoa is 0.0434046
+writing file24
+the total lift in cycle 2and iteration 25is0.0171951
+the total cl in cycle 2and iteration 25is0.0714891
+the size of the body array is 7575
+the current set aoa is 0.0218748
+writing file25
+the total lift in cycle 2and iteration 26is0.0368141
+the total cl in cycle 2and iteration 26is0.153055
+the size of the body array is 7676
+the current set aoa is 2.13741e-17
+writing file26
+the total lift in cycle 2and iteration 27is-0.0620504
+the total cl in cycle 2and iteration 27is-0.257976
+the size of the body array is 7777
+the current set aoa is -0.0218748
+writing file27
+the total lift in cycle 2and iteration 28is-0.0709188
+the total cl in cycle 2and iteration 28is-0.294846
+the size of the body array is 7878
+the current set aoa is -0.0434046
+writing file28
+the total lift in cycle 2and iteration 29is-0.0795283
+the total cl in cycle 2and iteration 29is-0.33064
+the size of the body array is 7979
+the current set aoa is -0.0642499
+writing file29
+the total lift in cycle 2and iteration 30is-0.0875156
+the total cl in cycle 2and iteration 30is-0.363847
+the size of the body array is 8080
+the current set aoa is -0.0840819
+writing file30
+the total lift in cycle 2and iteration 31is-0.0946999
+the total cl in cycle 2and iteration 31is-0.393716
+the size of the body array is 8181
+the current set aoa is -0.102588
+writing file31
+the total lift in cycle 2and iteration 32is-0.100914
+the total cl in cycle 2and iteration 32is-0.419553
+the size of the body array is 8282
+the current set aoa is -0.119476
+writing file32
+the total lift in cycle 2and iteration 33is-0.106003
+the total cl in cycle 2and iteration 33is-0.440708
+the size of the body array is 8383
+the current set aoa is -0.13448
+writing file33
+the total lift in cycle 2and iteration 34is-0.109815
+the total cl in cycle 2and iteration 34is-0.456556
+the size of the body array is 8484
+the current set aoa is -0.147363
+writing file34
+the total lift in cycle 2and iteration 35is-0.11222
+the total cl in cycle 2and iteration 35is-0.466558
+the size of the body array is 8585
+the current set aoa is -0.157922
+writing file35
+the total lift in cycle 2and iteration 36is-0.113103
+the total cl in cycle 2and iteration 36is-0.470229
+the size of the body array is 8686
+the current set aoa is -0.165991
+writing file36
+the total lift in cycle 2and iteration 37is-0.112389
+the total cl in cycle 2and iteration 37is-0.46726
+the size of the body array is 8787
+the current set aoa is -0.171441
+writing file37
+the total lift in cycle 2and iteration 38is-0.110019
+the total cl in cycle 2and iteration 38is-0.457405
+the size of the body array is 8888
+the current set aoa is -0.174189
+writing file38
+the total lift in cycle 2and iteration 39is-0.105993
+the total cl in cycle 2and iteration 39is-0.440668
+the size of the body array is 8989
+the current set aoa is -0.174189
+writing file39
+the total lift in cycle 2and iteration 40is-0.100321
+the total cl in cycle 2and iteration 40is-0.417087
+the size of the body array is 9090
+the current set aoa is -0.171441
+writing file40
+the total lift in cycle 2and iteration 41is-0.0930747
+the total cl in cycle 2and iteration 41is-0.38696
+the size of the body array is 9191
+the current set aoa is -0.165991
+writing file41
+the total lift in cycle 2and iteration 42is-0.0843546
+the total cl in cycle 2and iteration 42is-0.350706
+the size of the body array is 9292
+the current set aoa is -0.157922
+writing file42
+the total lift in cycle 2and iteration 43is-0.0742841
+the total cl in cycle 2and iteration 43is-0.308837
+the size of the body array is 9393
+the current set aoa is -0.147363
+writing file43
+the total lift in cycle 2and iteration 44is-0.0630192
+the total cl in cycle 2and iteration 44is-0.262003
+the size of the body array is 9494
+the current set aoa is -0.13448
+writing file44
+the total lift in cycle 2and iteration 45is-0.0507313
+the total cl in cycle 2and iteration 45is-0.210916
+the size of the body array is 9595
+the current set aoa is -0.119476
+writing file45
+the total lift in cycle 2and iteration 46is-0.037608
+the total cl in cycle 2and iteration 46is-0.156356
+the size of the body array is 9696
+the current set aoa is -0.102588
+writing file46
+the total lift in cycle 2and iteration 47is-0.0238519
+the total cl in cycle 2and iteration 47is-0.0991648
+the size of the body array is 9797
+the current set aoa is -0.0840819
+writing file47
+the total lift in cycle 2and iteration 48is-0.00967469
+the total cl in cycle 2and iteration 48is-0.0402227
+the size of the body array is 9898
+the current set aoa is -0.0642499
+writing file48
+the total lift in cycle 2and iteration 49is-0.00718738
+the total cl in cycle 2and iteration 49is-0.0298816
+the size of the body array is 9999
+the current set aoa is -0.0434046
+writing file49
+the total lift in cycle 2and iteration 50is-0.0214738
+the total cl in cycle 2and iteration 50is-0.0892777
+the size of the body array is 10100
+the current set aoa is -0.0218748
+writing file50
+cylce 3
+the total lift in cycle 3and iteration 1is0.0426328
+the total cl in cycle 3and iteration 1is0.177247
+the size of the body array is 10201
+the current set aoa is 0
+writing file1
+the total lift in cycle 3and iteration 2is0.054276
+the total cl in cycle 3and iteration 2is0.225653
+the size of the body array is 10302
+the current set aoa is 0.0218748
+writing file2
+the total lift in cycle 3and iteration 3is0.065531
+the total cl in cycle 3and iteration 3is0.272446
+the size of the body array is 10403
+the current set aoa is 0.0434046
+writing file3
+the total lift in cycle 3and iteration 4is0.0761261
+the total cl in cycle 3and iteration 4is0.316495
+the size of the body array is 10504
+the current set aoa is 0.0642499
+writing file4
+the total lift in cycle 3and iteration 5is0.0858701
+the total cl in cycle 3and iteration 5is0.357006
+the size of the body array is 10605
+the current set aoa is 0.0840819
+writing file5
+the total lift in cycle 3and iteration 6is0.0945762
+the total cl in cycle 3and iteration 6is0.393202
+the size of the body array is 10706
+the current set aoa is 0.102588
+writing file6
+the total lift in cycle 3and iteration 7is0.102068
+the total cl in cycle 3and iteration 7is0.42435
+the size of the body array is 10807
+the current set aoa is 0.119476
+writing file7
+the total lift in cycle 3and iteration 8is0.108184
+the total cl in cycle 3and iteration 8is0.449777
+the size of the body array is 10908
+the current set aoa is 0.13448
+writing file8
+the total lift in cycle 3and iteration 9is0.112779
+the total cl in cycle 3and iteration 9is0.46888
+the size of the body array is 11009
+the current set aoa is 0.147363
+writing file9
+the total lift in cycle 3and iteration 10is0.115736
+the total cl in cycle 3and iteration 10is0.481173
+the size of the body array is 11110
+the current set aoa is 0.157922
+writing file10
+the total lift in cycle 3and iteration 11is0.116969
+the total cl in cycle 3and iteration 11is0.4863
+the size of the body array is 11211
+the current set aoa is 0.165991
+writing file11
+the total lift in cycle 3and iteration 12is0.116434
+the total cl in cycle 3and iteration 12is0.484078
+the size of the body array is 11312
+the current set aoa is 0.171441
+writing file12
+the total lift in cycle 3and iteration 13is0.114106
+the total cl in cycle 3and iteration 13is0.474399
+the size of the body array is 11413
+the current set aoa is 0.174189
+writing file13
+the total lift in cycle 3and iteration 14is0.110007
+the total cl in cycle 3and iteration 14is0.457354
+the size of the body array is 11514
+the current set aoa is 0.174189
+writing file14
+the total lift in cycle 3and iteration 15is0.104189
+the total cl in cycle 3and iteration 15is0.433169
+the size of the body array is 11615
+the current set aoa is 0.171441
+writing file15
+the total lift in cycle 3and iteration 16is0.0967506
+the total cl in cycle 3and iteration 16is0.402242
+the size of the body array is 11716
+the current set aoa is 0.165991
+writing file16
+the total lift in cycle 3and iteration 17is0.0878043
+the total cl in cycle 3and iteration 17is0.365048
+the size of the body array is 11817
+the current set aoa is 0.157922
+writing file17
+the total lift in cycle 3and iteration 18is0.0775085
+the total cl in cycle 3and iteration 18is0.322243
+the size of the body array is 11918
+the current set aoa is 0.147363
+writing file18
+the total lift in cycle 3and iteration 19is0.0660303
+the total cl in cycle 3and iteration 19is0.274522
+the size of the body array is 12019
+the current set aoa is 0.13448
+writing file19
+the total lift in cycle 3and iteration 20is0.0535508
+the total cl in cycle 3and iteration 20is0.222639
+the size of the body array is 12120
+the current set aoa is 0.119476
+writing file20
+the total lift in cycle 3and iteration 21is0.0402685
+the total cl in cycle 3and iteration 21is0.167417
+the size of the body array is 12221
+the current set aoa is 0.102588
+writing file21
+the total lift in cycle 3and iteration 22is0.0263922
+the total cl in cycle 3and iteration 22is0.109726
+the size of the body array is 12322
+the current set aoa is 0.0840819
+writing file22
+the total lift in cycle 3and iteration 23is0.0121245
+the total cl in cycle 3and iteration 23is0.050408
+the size of the body array is 12423
+the current set aoa is 0.0642499
+writing file23
+the total lift in cycle 3and iteration 24is0.00538138
+the total cl in cycle 3and iteration 24is0.0223732
+the size of the body array is 12524
+the current set aoa is 0.0434046
+writing file24
+the total lift in cycle 3and iteration 25is0.0185252
+the total cl in cycle 3and iteration 25is0.0770189
+the size of the body array is 12625
+the current set aoa is 0.0218748
+writing file25
+the total lift in cycle 3and iteration 26is0.0386055
+the total cl in cycle 3and iteration 26is0.160503
+the size of the body array is 12726
+the current set aoa is 2.13741e-17
+writing file26
+the total lift in cycle 3and iteration 27is-0.0643009
+the total cl in cycle 3and iteration 27is-0.267332
+the size of the body array is 12827
+the current set aoa is -0.0218748
+writing file27
+the total lift in cycle 3and iteration 28is-0.0728456
+the total cl in cycle 3and iteration 28is-0.302857
+the size of the body array is 12928
+the current set aoa is -0.0434046
+writing file28
+the total lift in cycle 3and iteration 29is-0.0811903
+the total cl in cycle 3and iteration 29is-0.33755
+the size of the body array is 13029
+the current set aoa is -0.0642499
+writing file29
+the total lift in cycle 3and iteration 30is-0.0889482
+the total cl in cycle 3and iteration 30is-0.369804
+the size of the body array is 13130
+the current set aoa is -0.0840819
+writing file30
+the total lift in cycle 3and iteration 31is-0.095947
+the total cl in cycle 3and iteration 31is-0.398901
+the size of the body array is 13231
+the current set aoa is -0.102588
+writing file31
+the total lift in cycle 3and iteration 32is-0.102021
+the total cl in cycle 3and iteration 32is-0.424156
+the size of the body array is 13332
+the current set aoa is -0.119476
+writing file32
+the total lift in cycle 3and iteration 33is-0.106993
+the total cl in cycle 3and iteration 33is-0.444826
+the size of the body array is 13433
+the current set aoa is -0.13448
+writing file33
+the total lift in cycle 3and iteration 34is-0.110708
+the total cl in cycle 3and iteration 34is-0.460269
+the size of the body array is 13534
+the current set aoa is -0.147363
+writing file34
+the total lift in cycle 3and iteration 35is-0.113014
+the total cl in cycle 3and iteration 35is-0.469858
+the size of the body array is 13635
+the current set aoa is -0.157922
+writing file35
+the total lift in cycle 3and iteration 36is-0.113782
+the total cl in cycle 3and iteration 36is-0.473052
+the size of the body array is 13736
+the current set aoa is -0.165991
+writing file36
+the total lift in cycle 3and iteration 37is-0.113033
+the total cl in cycle 3and iteration 37is-0.469939
+the size of the body array is 13837
+the current set aoa is -0.171441
+writing file37
+the total lift in cycle 3and iteration 38is-0.11065
+the total cl in cycle 3and iteration 38is-0.460031
+the size of the body array is 13938
+the current set aoa is -0.174189
+writing file38
+the total lift in cycle 3and iteration 39is-0.106609
+the total cl in cycle 3and iteration 39is-0.443227
+the size of the body array is 14039
+the current set aoa is -0.174189
+writing file39
+the total lift in cycle 3and iteration 40is-0.100953
+the total cl in cycle 3and iteration 40is-0.419713
+the size of the body array is 14140
+the current set aoa is -0.171441
+writing file40
+the total lift in cycle 3and iteration 41is-0.0937375
+the total cl in cycle 3and iteration 41is-0.389715
+the size of the body array is 14241
+the current set aoa is -0.165991
+writing file41
+the total lift in cycle 3and iteration 42is-0.0850622
+the total cl in cycle 3and iteration 42is-0.353647
+the size of the body array is 14342
+the current set aoa is -0.157922
+writing file42
+the total lift in cycle 3and iteration 43is-0.0750276
+the total cl in cycle 3and iteration 43is-0.311928
+the size of the body array is 14443
+the current set aoa is -0.147363
+writing file43
+the total lift in cycle 3and iteration 44is-0.0637809
+the total cl in cycle 3and iteration 44is-0.26517
+the size of the body array is 14544
+the current set aoa is -0.13448
+writing file44
+the total lift in cycle 3and iteration 45is-0.0515021
+the total cl in cycle 3and iteration 45is-0.214121
+the size of the body array is 14645
+the current set aoa is -0.119476
+writing file45
+the total lift in cycle 3and iteration 46is-0.0383522
+the total cl in cycle 3and iteration 46is-0.15945
+the size of the body array is 14746
+the current set aoa is -0.102588
+writing file46
+the total lift in cycle 3and iteration 47is-0.0245628
+the total cl in cycle 3and iteration 47is-0.10212
+the size of the body array is 14847
+the current set aoa is -0.0840819
+writing file47
+the total lift in cycle 3and iteration 48is-0.0103498
+the total cl in cycle 3and iteration 48is-0.0430294
+the size of the body array is 14948
+the current set aoa is -0.0642499
+writing file48
+the total lift in cycle 3and iteration 49is-0.00667091
+the total cl in cycle 3and iteration 49is-0.0277344
+the size of the body array is 15049
+the current set aoa is -0.0434046
+writing file49
+the total lift in cycle 3and iteration 50is-0.0206815
+the total cl in cycle 3and iteration 50is-0.0859838
+the size of the body array is 15150
+the current set aoa is -0.0218748
+writing file50

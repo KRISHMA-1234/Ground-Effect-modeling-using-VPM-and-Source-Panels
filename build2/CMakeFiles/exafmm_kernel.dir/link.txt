@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/exafmm_kernel.dir/exafmm/exafmm_vpm/kernel.cpp.o -o exafmm_kernel  source_panels/libsource_panels.a -lpthread /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so

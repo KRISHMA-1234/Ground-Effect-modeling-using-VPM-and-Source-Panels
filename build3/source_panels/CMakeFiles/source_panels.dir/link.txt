@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsource_panels.a CMakeFiles/source_panels.dir/surface.cpp.o
+/usr/bin/ranlib libsource_panels.a
